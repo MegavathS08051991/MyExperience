@@ -16,3 +16,8 @@ Access Control Operator
 
 I have strong experience in IT Project domain.
 Have solved various conflicts in project teams and streamlined multiple business objectives and created workflow architecture and full live support to clients.
+Have done Master in project management -PMP/PMI from Udemy
+Completed the PMBOK 6th Edition PMP 35 hours of course from BPM 
+Completed Business email writing skills from LinkedinLearning
+Attended CS50 C pyhton course from Hardvard Edu by edX
+Completed Linex Aadministration course on The Linex Foundation.
