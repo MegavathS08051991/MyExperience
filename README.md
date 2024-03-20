@@ -12,3 +12,6 @@ Technical Engineer
 
 Sri Bhavani Enterprises, Wipro Limited(Aug 2014-Jul 2015)
 Access Control Operator
+
+I have strong experience in IT Project domain.
+Have solved various conflicts in project teams and stremlined multiple business objectives and created workflow architecture and full live support to clients.
