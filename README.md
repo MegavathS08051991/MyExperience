@@ -1,6 +1,7 @@
 # MyExperience:
 Total Experience: 9 years 6 months
-Client: Qualcomm India Pvt. Ltd - 6 years 3 months 
+Client: Qualcomm India Pvt. Ltd - 6 years 3 months
+
 Moschip Technologies (Sep 2020 - Present)
 Engineer II Lab support
 
